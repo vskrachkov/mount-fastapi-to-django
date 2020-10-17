@@ -1,0 +1,1 @@
+uvicorn django_fastapi.main:application --host localhost --port 8000 --reload
